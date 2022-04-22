@@ -3426,3 +3426,7 @@ input, select, textarea {
 	  .bar {
 		  margin-left: 22%;
 	  }
+
+	  #aboutMeButton {
+		  margin-top: 9vh;
+	  }
